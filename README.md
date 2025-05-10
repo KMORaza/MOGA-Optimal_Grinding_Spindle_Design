@@ -10,6 +10,7 @@ The system simulates spindle performance under various conditions, evaluates met
 * Uses kNN on historical data to predict if maintenance is needed based on vibration, temperature, and other metrics.
 * Uses Multi-Objective Genetic Algorithm (MOGA) to find Pareto-optimal spindle configurations, balancing vibration, bearing life, and temperature.
 * Performance calculations :—
+
   |                         |                                     |
   |-------------------------|-------------------------------------|
   | Power Calculation        | Estimates required power based on wheel diameter and speed|
